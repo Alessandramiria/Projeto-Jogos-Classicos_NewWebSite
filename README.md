@@ -14,3 +14,6 @@ Projeto 'completo' para site relacionado à **Jogos Clássicos**
 - [ ] responsive
 - [ ] database
 - [ ] \(Optional) créditos ao autor
+
+# Bottom Text
+<!-- [Gerald-0 Mario-World](https://github.com/Gerald-0/Mario-Wold) -->
